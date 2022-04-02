@@ -32,7 +32,7 @@
 </p>
 
 <p>
-      <img src="https://cdn.acwing.com/media/article/image/2022/04/02/101476_3dd3411cb2-gatito-dormir.gif">
+      <img src="https://cdn.acwing.com/media/article/image/2022/04/02/101476_3dd3411cb2-gatito-dormir.gif" height="65">
 </p>
 
 <!--START_SECTION:waka-->

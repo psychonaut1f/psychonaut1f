@@ -19,7 +19,7 @@
   <img alt="python" src="https://img.shields.io/badge/Python-3572a5?style=flat-square&logo=python&logoColor=white">
   <img alt="c++" src="https://img.shields.io/badge/C++-f34b7d?style=flat-square&logo=c%2b%2b">
   <br />
-    <img src="https://stats.justsong.cn/api/leetcode?username=konng0120&cn_username=konng0120" height = "190" algin="right"/>
+    <img src="https://stats.justsong.cn/api/leetcode?username=konng0120&cn_username=konng0120" height = "170" algin="right"/>
 </p>
 
 

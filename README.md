@@ -5,9 +5,7 @@
 🔗 Personal website: [https://wikif.vercel.app](https://wikif.vercel.app)   
 💬 Ask me about anything [here](https://github.com/fengwei2002/fengwei2002/issues).   
 ✨ A comfortable dark theme for vscode [KONNG](https://marketplace.visualstudio.com/items?itemName=OvO.konng)
-<p align="center">
-  <img src="https://cdn.acwing.com/media/article/image/2022/04/02/101476_3dd3411cb2-gatito-dormir.gif" height="65" algin="center">
-</p>
+
 <p align="center">
   <img alt="kotlin" src="https://img.shields.io/badge/Kotlin-a788b5?style=flat-square&logo=kotlin&logoColor=white">
   <img alt="java" src="https://img.shields.io/badge/java-F7F7F7?style=flat-square&logo=java&logoColor=brown">
@@ -22,7 +20,7 @@
   <img alt="python" src="https://img.shields.io/badge/Python-3572a5?style=flat-square&logo=python&logoColor=white">
   <img alt="c++" src="https://img.shields.io/badge/C++-f34b7d?style=flat-square&logo=c%2b%2b">
   <br />
-    <img src="https://leetcode-stats-six.vercel.app/api?username=konng0120" height="135" algin="left"/>
+    <img src="https://leetcode-stats-six.vercel.app/api?username=konng0120" algin="left"/>
 </p>
 
 

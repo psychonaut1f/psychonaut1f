@@ -2,10 +2,7 @@
 <img align='left' alt="isocalendar" src="https://github.com/fengwei2002/fengwei2002/blob/main/activity.svg">
 
 🍭 11:00 AM - 07:00 PM   
-🔗 Personal website: [https://wikif.vercel.app](https://wikif.vercel.app)   
-💬 Ask me about anything [here](https://github.com/fengwei2002/fengwei2002/issues).   
-✨ A comfortable dark theme for vscode [KONNG](https://marketplace.visualstudio.com/items?itemName=OvO.konng)
-
+    <img src="https://camo.githubusercontent.com/8b4dcdddfcead4e264977e9961ee5fb15fae6a0dcd12ee7a2017e8044603635b/68747470733a2f2f63646e2e616377696e672e636f6d2f6d656469612f61727469636c652f696d6167652f323032322f30342f30322f3130313437365f383763653937646562322d706978656c2d62756e6e792e676966" height="65" algin="right"/>
 <p align="center">
   <img alt="kotlin" src="https://img.shields.io/badge/Kotlin-a788b5?style=flat-square&logo=kotlin&logoColor=white">
   <img alt="java" src="https://img.shields.io/badge/java-F7F7F7?style=flat-square&logo=java&logoColor=brown">
